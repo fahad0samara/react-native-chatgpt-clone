@@ -13,6 +13,8 @@ This is a **React Native** project that mimics the ChatGPT user interface. The a
 - **SVG Logo**: The app includes an SVG logo similar to ChatGPT's logo for branding consistency.
 
 ## Screens
+![photo_2024-10-18_08-35-16](https://github.com/user-attachments/assets/52541724-a995-4db5-b7f7-a20b4924b406)
+
 
 ### Home Screen
 - Displays the ChatGPT logo at the center of the screen.
